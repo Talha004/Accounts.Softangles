@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softangles.Accounts", "Softangles.Accounts\Softangles.Accounts.csproj", "{0380CE55-3CEE-4ED3-B4F4-91F902166DCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0380CE55-3CEE-4ED3-B4F4-91F902166DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0380CE55-3CEE-4ED3-B4F4-91F902166DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0380CE55-3CEE-4ED3-B4F4-91F902166DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0380CE55-3CEE-4ED3-B4F4-91F902166DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {263B0913-BB62-4D3B-84A3-80D674D74807}
+	EndGlobalSection
+EndGlobal
